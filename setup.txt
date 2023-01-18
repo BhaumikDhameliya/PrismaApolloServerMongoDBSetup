@@ -1,0 +1,6 @@
+- run 'npm install'
+- create .env file in root directory
+- add DATABASE_URL=<YOUR_MONGODB_ATLAS_URL> with database name
+- run 'npx prisma generate'
+- run 'npx start'
+
